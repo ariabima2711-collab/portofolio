@@ -9,5 +9,5 @@ Lulusan S1 Matematika yang memiliki minat pada Data Analytics.
 - Google Sheets
 
 ## Projects
-- Chocolate Sales Analysis
+- [Chocolate Sales Analysis](https://github.com/ariabima2711-collab/chocolate-sales-project-python.git)
 - Retail Toys Sales Analysis
