@@ -9,9 +9,11 @@ Lulusan S1 Matematika yang memiliki minat pada Data Analytics. Tertarik mengubah
 - Exploratory Data Analysis (EDA)
 - Data Visualization
 - Dashboard Development
+
 ### Programming
 - Python
 - SQL
+
 ### Tools
 - Excel
 - Google Sheets
